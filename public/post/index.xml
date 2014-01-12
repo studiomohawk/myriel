@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Posts | Myriel</title>
+    <link>http://localhost:1313post.xml</link>
+    <language>en-us</language>
+    <author>Yuya Saito</author>
+    <updated>2014-01-11 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Markdown Style</title>
+      <link>http://localhost:1313/post/style</link>
+      <pubDate>Sat, 11 Jan 2014 00:00:00 UTC</pubDate>
+      <author>Yuya Saito</author>
+      <guid>http://localhost:1313/post/style</guid>
+      <description>&lt;h1&gt;h1 - header 1&lt;/h1&gt;
+
+&lt;h2&gt;h2 - header 2&lt;/h2&gt;
+
+&lt;h3&gt;h3 - header 3&lt;/h3&gt;
+
+&lt;h4&gt;h4 - header 4&lt;/h4&gt;
+
+&lt;h5&gt;h5 - header 5&lt;/h5&gt;
+
+&lt;h6&gt;h6 - header 6&lt;/h6&gt;
+
+&lt;p&gt;&lt;strong&gt;But this is not the half;&lt;/strong&gt; look again. I freely assert, that the cosmopolite philosopher cannot, for his life, point out one single peaceful influence, which within the last sixty years has operated more potentially upon the whole broad world, taken in one aggregate, than the high and mighty business of whaling. One way and another, it has begotten&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Practically also, Mr. Stuart.&amp;rdquo; &amp;ldquo;I&amp;rsquo;d like to see you do it in eighty days.&amp;rdquo; &amp;ldquo;It depends on you.  Shall we go?&amp;rdquo; &amp;ldquo;Heaven preserve me!  But I would wager four thousand pounds that such a journey, made under these conditions, is impossible.&amp;rdquo; &amp;ldquo;Quite possible, on the contrary,&amp;rdquo; returned Mr. Fogg. &amp;ldquo;Well, make it, then!&amp;rdquo; &amp;ldquo;The journey round the world in eighty days?&amp;rdquo; &amp;ldquo;Yes.&amp;rdquo; &amp;ldquo;I should like&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;listing&lt;/li&gt;
+&lt;li&gt;items&lt;/li&gt;
+&lt;li&gt;looks like&lt;/li&gt;
+&lt;li&gt;this&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;What surprised Sola most in me was that while I could catch telepathic messages easily from others,&lt;/em&gt; and often when they were not intended for me, no one could read a jot from my mind under any circumstances.  At first this vexed me, but later I was very glad of it, as it gave me an undoubted advantage over the Martians. The third day after the incubator ceremony we set forth toward home, but scarcely had the head of the procession debouched into the open ground before the city than orders were given for an immediate and hasty return.  As&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;ordered&lt;/li&gt;
+&lt;li&gt;items&lt;/li&gt;
+&lt;li&gt;looks like&lt;/li&gt;
+&lt;li&gt;this&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://hugo.spf13.com/&#34;&gt;Hugo is The Fast and Flexible Static Site Generator&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://placekitten.com/g/1200/500&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;html&#34;&gt;&amp;lt;header&amp;gt;
+  &amp;lt;h1&amp;gt;&amp;lt;a href=&amp;quot;/&amp;quot;&amp;gt;Company Name&amp;lt;/a&amp;gt;&amp;lt;/h1&amp;gt;
+&amp;lt;/header&amp;gt;
+&amp;lt;section&amp;gt;
+  &amp;lt;p&amp;gt;Content goes here&amp;lt;/p&amp;gt;
+&amp;lt;/section&amp;gt;
+&amp;lt;footer&amp;gt;
+  &amp;lt;p&amp;gt;&amp;amp;copy; 2013 Company Name&amp;lt;/p&amp;gt;
+&amp;lt;/footer&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;
+&lt;html&gt;
+    &lt;body&gt; This HTML &lt;/body&gt;
+&lt;/html&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CHAPTER II</title>
+      <link>http://localhost:1313/post/m-myriel-becomes-m-welcome</link>
+      <pubDate>Thu, 02 Jan 1862 00:00:00 UTC</pubDate>
+      <author>Yuya Saito</author>
+      <guid>http://localhost:1313/post/m-myriel-becomes-m-welcome</guid>
+      <description>&lt;h2&gt;M. MYRIEL BECOMES M. WELCOME&lt;/h2&gt;
+
+&lt;p&gt;The episcopal palace of D&amp;mdash;- adjoins the hospital.&lt;/p&gt;
+
+&lt;p&gt;The episcopal palace was a huge and beautiful house, built of stone at
+the beginning of the last century by M. Henri Puget, Doctor of Theology
+of the Faculty of Paris, Abbe of Simore, who had been Bishop of D&amp;mdash;- in
+1712. This palace was a genuine seignorial residence. Everything about
+it had a grand air,&amp;ndash;the apartments of the Bishop, the drawing-rooms,
+the chambers, the principal courtyard, which was very large, with walks
+encircling it under arcades in the old Florentine fashion, and gardens
+planted with magnificent trees. In the dining-room, a long and superb
+gallery which was situated on the ground-floor and opened on the
+gardens, M. Henri Puget had entertained in state, on July 29, 1714, My
+Lords Charles Brulart de Genlis, archbishop; Prince d&amp;rsquo;Embrun; Antoine
+de Mesgrigny, the capuchin, Bishop of Grasse; Philippe de Vendome, Grand
+Prior of France, Abbe of Saint Honore de Lerins; Francois de Berton de
+Crillon, bishop, Baron de Vence; Cesar de Sabran de Forcalquier, bishop,
+Seignor of Glandeve; and Jean Soanen, Priest of the Oratory, preacher in
+ordinary to the king, bishop, Seignor of Senez. The portraits of these
+seven reverend personages decorated this apartment; and this memorable
+date, the 29th of July, 1714, was there engraved in letters of gold on a
+table of white marble.&lt;/p&gt;
+
+&lt;p&gt;The hospital was a low and narrow building of a single story, with a
+small garden.&lt;/p&gt;
+
+&lt;p&gt;Three days after his arrival, the Bishop visited the hospital. The visit
+ended, he had the director requested to be so good as to come to his
+house.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Monsieur the director of the hospital,&amp;rdquo; said he to him, &amp;ldquo;how many sick
+people have you at the present moment?&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Twenty-six, Monseigneur.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;That was the number which I counted,&amp;rdquo; said the Bishop.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;The beds,&amp;rdquo; pursued the director, &amp;ldquo;are very much crowded against each
+other.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;That is what I observed.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;The halls are nothing but rooms, and it is with difficulty that the air
+can be changed in them.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;So it seems to me.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;And then, when there is a ray of sun, the garden is very small for the
+convalescents.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;That was what I said to myself.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;In case of epidemics,&amp;ndash;we have had the typhus fever this year; we
+had the sweating sickness two years ago, and a hundred patients at
+times,&amp;ndash;we know not what to do.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;That is the thought which occurred to me.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;What would you have, Monseigneur?&amp;rdquo; said the director. &amp;ldquo;One must resign
+one&amp;rsquo;s self.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;This conversation took place in the gallery dining-room on the
+ground-floor.&lt;/p&gt;
+
+&lt;p&gt;The Bishop remained silent for a moment; then he turned abruptly to the
+director of the hospital.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Monsieur,&amp;rdquo; said he, &amp;ldquo;how many beds do you think this hall alone would
+hold?&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Monseigneur&amp;rsquo;s dining-room?&amp;rdquo; exclaimed the stupefied director.&lt;/p&gt;
+
+&lt;p&gt;The Bishop cast a glance round the apartment, and seemed to be taking
+measures and calculations with his eyes.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;It would hold full twenty beds,&amp;rdquo; said he, as though speaking to
+himself. Then, raising his voice:&amp;ndash;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Hold, Monsieur the director of the hospital, I will tell you something.
+There is evidently a mistake here. There are thirty-six of you, in five
+or six small rooms. There are three of us here, and we have room for
+sixty. There is some mistake, I tell you; you have my house, and I have
+yours. Give me back my house; you are at home here.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;On the following day the thirty-six patients were installed in the
+Bishop&amp;rsquo;s palace, and the Bishop was settled in the hospital.&lt;/p&gt;
+
+&lt;p&gt;M. Myriel had no property, his family having been ruined by the
+Revolution. His sister was in receipt of a yearly income of five hundred
+francs, which sufficed for her personal wants at the vicarage. M. Myriel
+received from the State, in his quality of bishop, a salary of fifteen
+thousand francs. On the very day when he took up his abode in the
+hospital, M. Myriel settled on the disposition of this sum once for
+all, in the following manner. We transcribe here a note made by his own
+hand:&amp;ndash;&lt;/p&gt;
+
+&lt;p&gt;NOTE ON THE REGULATION OF MY HOUSEHOLD EXPENSES.&lt;/p&gt;
+
+&lt;p&gt;For the little seminary &amp;hellip; &amp;hellip; &amp;hellip; &amp;hellip; . .    1,500 livres
+  Society of the  mission &amp;hellip; &amp;hellip; &amp;hellip; &amp;hellip; . .      100   &amp;ldquo;
+  For the Lazarists of Montdidier &amp;hellip; &amp;hellip; &amp;hellip; .      100   &amp;ldquo;
+  Seminary for foreign missions in Paris  &amp;hellip; &amp;hellip;      200   &amp;ldquo;
+  Congregation of the Holy Spirit &amp;hellip; &amp;hellip; &amp;hellip; .      150   &amp;ldquo;
+  Religious establishments of the Holy Land &amp;hellip; . .      100   &amp;ldquo;
+  Charitable maternity societies  &amp;hellip; &amp;hellip; &amp;hellip; .      300   &amp;ldquo;
+  Extra, for that of Arles  &amp;hellip; &amp;hellip; &amp;hellip; &amp;hellip; .       50   &amp;ldquo;
+  Work for the amelioration of prisons  &amp;hellip; &amp;hellip; .      400   &amp;ldquo;
+  Work for the relief and delivery of prisoners &amp;hellip;      500   &amp;ldquo;
+  To liberate fathers of families incarcerated for debt  1,000   &amp;ldquo;
+  Addition to the salary of the poor teachers of the
+       diocese  &amp;hellip; &amp;hellip; &amp;hellip; &amp;hellip; &amp;hellip; &amp;hellip; .    2,000   &amp;ldquo;
+  Public granary of the Hautes-Alpes  &amp;hellip; &amp;hellip; . .      100   &amp;ldquo;
+  Congregation of the ladies of D&amp;mdash;-, of Manosque, and of
+       Sisteron, for the gratuitous instruction of poor
+       girls  &amp;hellip; &amp;hellip; &amp;hellip; &amp;hellip; &amp;hellip; &amp;hellip; . .    1,500   &amp;ldquo;
+  For the poor  &amp;hellip; &amp;hellip; &amp;hellip; &amp;hellip; &amp;hellip; &amp;hellip; .    6,000   &amp;ldquo;
+  My personal expenses  &amp;hellip; &amp;hellip; &amp;hellip; &amp;hellip; &amp;hellip;    1,000   &amp;ldquo;
+                                                        &amp;mdash;&amp;mdash;
+       Total  &amp;hellip; &amp;hellip; &amp;hellip; &amp;hellip; &amp;hellip; &amp;hellip; . .   15,000   &amp;ldquo;&lt;/p&gt;
+
+&lt;p&gt;M. Myriel made no change in this arrangement during the entire period
+that he occupied the see of D&amp;mdash;- As has been seen, he called it
+regulating his household expenses.&lt;/p&gt;
+
+&lt;p&gt;This arrangement was accepted with absolute submission by Mademoiselle
+Baptistine. This holy woman regarded Monseigneur of D&amp;mdash;- as at one and
+the same time her brother and her bishop, her friend according to the
+flesh and her superior according to the Church. She simply loved and
+venerated him. When he spoke, she bowed; when he acted, she yielded her
+adherence. Their only servant, Madame Magloire, grumbled a little. It
+will be observed that Monsieur the Bishop had reserved for himself
+only one thousand livres, which, added to the pension of Mademoiselle
+Baptistine, made fifteen hundred francs a year. On these fifteen hundred
+francs these two old women and the old man subsisted.&lt;/p&gt;
+
+&lt;p&gt;And when a village curate came to D&amp;mdash;-, the Bishop still found means to
+entertain him, thanks to the severe economy of Madame Magloire, and to
+the intelligent administration of Mademoiselle Baptistine.&lt;/p&gt;
+
+&lt;p&gt;One day, after he had been in D&amp;mdash;- about three months, the Bishop
+said:&amp;ndash;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;And still I am quite cramped with it all!&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;I should think so!&amp;rdquo; exclaimed Madame Magloire. &amp;ldquo;Monseigneur has not
+even claimed the allowance which the department owes him for the expense
+of his carriage in town, and for his journeys about the diocese. It was
+customary for bishops in former days.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Hold!&amp;rdquo; cried the Bishop, &amp;ldquo;you are quite right, Madame Magloire.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;And he made his demand.&lt;/p&gt;
+
+&lt;p&gt;Some time afterwards the General Council took this demand under
+consideration, and voted him an annual sum of three thousand francs,
+under this heading: Allowance to M. the Bishop for expenses of carriage,
+expenses of posting, and expenses of pastoral visits.&lt;/p&gt;
+
+&lt;p&gt;This provoked a great outcry among the local burgesses; and a senator
+of the Empire, a former member of the Council of the Five Hundred
+which favored the 18 Brumaire, and who was provided with a magnificent
+senatorial office in the vicinity of the town of D&amp;mdash;-, wrote to M.
+Bigot de Preameneu, the minister of public worship, a very angry and
+confidential note on the subject, from which we extract these authentic
+lines:&amp;ndash;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Expenses of carriage? What can be done with it in a town of less than
+four thousand inhabitants? Expenses of journeys? What is the use
+of these trips, in the first place? Next, how can the posting be
+accomplished in these mountainous parts? There are no roads. No one
+travels otherwise than on horseback. Even the bridge between Durance and
+Chateau-Arnoux can barely support ox-teams. These priests are all thus,
+greedy and avaricious. This man played the good priest when he
+first came. Now he does like the rest; he must have a carriage and a
+posting-chaise, he must have luxuries, like the bishops of the olden
+days. Oh, all this priesthood! Things will not go well, M. le Comte,
+until the Emperor has freed us from these black-capped rascals. Down
+with the Pope! [Matters were getting embroiled with Rome.] For my part,
+I am for Caesar alone.&amp;rdquo; Etc., etc.&lt;/p&gt;
+
+&lt;p&gt;On the other hand, this affair afforded great delight to Madame
+Magloire. &amp;ldquo;Good,&amp;rdquo; said she to Mademoiselle Baptistine; &amp;ldquo;Monseigneur
+began with other people, but he has had to wind up with himself, after
+all. He has regulated all his charities. Now here are three thousand
+francs for us! At last!&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;That same evening the Bishop wrote out and handed to his sister a
+memorandum conceived in the following terms:&amp;ndash;&lt;/p&gt;
+
+&lt;p&gt;EXPENSES OF CARRIAGE AND CIRCUIT.&lt;/p&gt;
+
+&lt;p&gt;For furnishing meat soup to the patients in the hospital. 1,500 livres
+  For the maternity charitable society of Aix &amp;hellip; &amp;hellip; .   250   &amp;ldquo;
+  For the maternity charitable society of Draguignan  &amp;hellip;   250   &amp;ldquo;
+  For foundlings  &amp;hellip; &amp;hellip; &amp;hellip; &amp;hellip; &amp;hellip; &amp;hellip; &amp;hellip;   500   &amp;ldquo;
+  For orphans   &amp;hellip; &amp;hellip; &amp;hellip; &amp;hellip; &amp;hellip; &amp;hellip; &amp;hellip; .   500   &amp;ldquo;
+                                                            &amp;mdash;&amp;ndash;
+       Total  &amp;hellip; &amp;hellip; &amp;hellip; &amp;hellip; &amp;hellip; &amp;hellip; &amp;hellip; . . 3,000   &amp;ldquo;&lt;/p&gt;
+
+&lt;p&gt;Such was M. Myriel&amp;rsquo;s budget.&lt;/p&gt;
+
+&lt;p&gt;As for the chance episcopal perquisites, the fees for marriage bans,
+dispensations, private baptisms, sermons, benedictions, of churches or
+chapels, marriages, etc., the Bishop levied them on the wealthy with all
+the more asperity, since he bestowed them on the needy.&lt;/p&gt;
+
+&lt;p&gt;After a time, offerings of money flowed in. Those who had and those who
+lacked knocked at M. Myriel&amp;rsquo;s door,&amp;ndash;the latter in search of the alms
+which the former came to deposit. In less than a year the Bishop had
+become the treasurer of all benevolence and the cashier of all those
+in distress. Considerable sums of money passed through his hands, but
+nothing could induce him to make any change whatever in his mode of
+life, or add anything superfluous to his bare necessities.&lt;/p&gt;
+
+&lt;p&gt;Far from it. As there is always more wretchedness below than there
+is brotherhood above, all was given away, so to speak, before it was
+received. It was like water on dry soil; no matter how much money he
+received, he never had any. Then he stripped himself.&lt;/p&gt;
+
+&lt;p&gt;The usage being that bishops shall announce their baptismal names at the
+head of their charges and their pastoral letters, the poor people of the
+country-side had selected, with a sort of affectionate instinct, among
+the names and prenomens of their bishop, that which had a meaning for
+them; and they never called him anything except Monseigneur Bienvenu
+[Welcome]. We will follow their example, and will also call him thus
+when we have occasion to name him. Moreover, this appellation pleased
+him.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;I like that name,&amp;rdquo; said he. &amp;ldquo;Bienvenu makes up for the Monseigneur.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;We do not claim that the portrait herewith presented is probable; we
+confine ourselves to stating that it resembles the original.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CHAPTER I</title>
+      <link>http://localhost:1313/post/m-myriel</link>
+      <pubDate>Wed, 01 Jan 1862 00:00:00 UTC</pubDate>
+      <author>Yuya Saito</author>
+      <guid>http://localhost:1313/post/m-myriel</guid>
+      <description>&lt;h2&gt;M. MYRIEL&lt;/h2&gt;
+
+&lt;p&gt;In 1815, M. Charles-Francois-Bienvenu Myriel was Bishop of D&amp;mdash;- He was
+an old man of about seventy-five years of age; he had occupied the see
+of D&amp;mdash;- since 1806.&lt;/p&gt;
+
+&lt;p&gt;Although this detail has no connection whatever with the real substance
+of what we are about to relate, it will not be superfluous, if merely
+for the sake of exactness in all points, to mention here the various
+rumors and remarks which had been in circulation about him from the very
+moment when he arrived in the diocese. True or false, that which is said
+of men often occupies as important a place in their lives, and above all
+in their destinies, as that which they do. M. Myriel was the son of a
+councillor of the Parliament of Aix; hence he belonged to the nobility
+of the bar. It was said that his father, destining him to be the heir of
+his own post, had married him at a very early age, eighteen or twenty,
+in accordance with a custom which is rather widely prevalent in
+parliamentary families. In spite of this marriage, however, it was said
+that Charles Myriel created a great deal of talk. He was well formed,
+though rather short in stature, elegant, graceful, intelligent; the
+whole of the first portion of his life had been devoted to the world and
+to gallantry.&lt;/p&gt;
+
+&lt;p&gt;The Revolution came; events succeeded each other with precipitation; the
+parliamentary families, decimated, pursued, hunted down, were dispersed.
+M. Charles Myriel emigrated to Italy at the very beginning of the
+Revolution. There his wife died of a malady of the chest, from which she
+had long suffered. He had no children. What took place next in the fate
+of M. Myriel? The ruin of the French society of the olden days, the fall
+of his own family, the tragic spectacles of &amp;lsquo;93, which were, perhaps,
+even more alarming to the emigrants who viewed them from a distance,
+with the magnifying powers of terror,&amp;ndash;did these cause the ideas of
+renunciation and solitude to germinate in him? Was he, in the midst of
+these distractions, these affections which absorbed his life, suddenly
+smitten with one of those mysterious and terrible blows which sometimes
+overwhelm, by striking to his heart, a man whom public catastrophes
+would not shake, by striking at his existence and his fortune? No one
+could have told: all that was known was, that when he returned from
+Italy he was a priest.&lt;/p&gt;
+
+&lt;p&gt;In 1804, M. Myriel was the Cure of B&amp;mdash;- [Brignolles]. He was already
+advanced in years, and lived in a very retired manner.&lt;/p&gt;
+
+&lt;p&gt;About the epoch of the coronation, some petty affair connected with
+his curacy&amp;ndash;just what, is not precisely known&amp;ndash;took him to Paris.
+Among other powerful persons to whom he went to solicit aid for his
+parishioners was M. le Cardinal Fesch. One day, when the Emperor
+had come to visit his uncle, the worthy Cure, who was waiting in the
+anteroom, found himself present when His Majesty passed. Napoleon,
+on finding himself observed with a certain curiosity by this old man,
+turned round and said abruptly:&amp;ndash;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Who is this good man who is staring at me?&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Sire,&amp;rdquo; said M. Myriel, &amp;ldquo;you are looking at a good man, and I at a great
+man. Each of us can profit by it.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;That very evening, the Emperor asked the Cardinal the name of the Cure,
+and some time afterwards M. Myriel was utterly astonished to learn that
+he had been appointed Bishop of D&amp;mdash;-&lt;/p&gt;
+
+&lt;p&gt;What truth was there, after all, in the stories which were invented as
+to the early portion of M. Myriel&amp;rsquo;s life? No one knew. Very few families
+had been acquainted with the Myriel family before the Revolution.&lt;/p&gt;
+
+&lt;p&gt;M. Myriel had to undergo the fate of every newcomer in a little town,
+where there are many mouths which talk, and very few heads which think.
+He was obliged to undergo it although he was a bishop, and because
+he was a bishop. But after all, the rumors with which his name
+was connected were rumors only,&amp;ndash;noise, sayings, words; less than
+words&amp;ndash;palabres, as the energetic language of the South expresses it.&lt;/p&gt;
+
+&lt;p&gt;However that may be, after nine years of episcopal power and of
+residence in D&amp;mdash;-, all the stories and subjects of conversation which
+engross petty towns and petty people at the outset had fallen into
+profound oblivion. No one would have dared to mention them; no one would
+have dared to recall them.&lt;/p&gt;
+
+&lt;p&gt;M. Myriel had arrived at D&amp;mdash;- accompanied by an elderly spinster,
+Mademoiselle Baptistine, who was his sister, and ten years his junior.&lt;/p&gt;
+
+&lt;p&gt;Their only domestic was a female servant of the same age as Mademoiselle
+Baptistine, and named Madame Magloire, who, after having been the
+servant of M. le Cure, now assumed the double title of maid to
+Mademoiselle and housekeeper to Monseigneur.&lt;/p&gt;
+
+&lt;p&gt;Mademoiselle Baptistine was a long, pale, thin, gentle creature; she
+realized the ideal expressed by the word &amp;ldquo;respectable&amp;rdquo;; for it seems
+that a woman must needs be a mother in order to be venerable. She
+had never been pretty; her whole life, which had been nothing but a
+succession of holy deeds, had finally conferred upon her a sort of
+pallor and transparency; and as she advanced in years she had acquired
+what may be called the beauty of goodness. What had been leanness in
+her youth had become transparency in her maturity; and this diaphaneity
+allowed the angel to be seen. She was a soul rather than a virgin. Her
+person seemed made of a shadow; there was hardly sufficient body to
+provide for sex; a little matter enclosing a light; large eyes forever
+drooping;&amp;ndash;a mere pretext for a soul&amp;rsquo;s remaining on the earth.&lt;/p&gt;
+
+&lt;p&gt;Madame Magloire was a little, fat, white old woman, corpulent and
+bustling; always out of breath,&amp;ndash;in the first place, because of her
+activity, and in the next, because of her asthma.&lt;/p&gt;
+
+&lt;p&gt;On his arrival, M. Myriel was installed in the episcopal palace with
+the honors required by the Imperial decrees, which class a bishop
+immediately after a major-general. The mayor and the president paid the
+first call on him, and he, in turn, paid the first call on the general
+and the prefect.&lt;/p&gt;
+
+&lt;p&gt;The installation over, the town waited to see its bishop at work.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
