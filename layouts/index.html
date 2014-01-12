@@ -1,16 +1,31 @@
-{{ template "chrome/system/header/index.html" . }}
+<!DOCTYPE html>
+<html>
+  <head prefix="og: http://ogp.me/ns#">
+    <meta charset="utf-8">
+    <title>{{ .Site.Title }}</title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="{{ .Site.Params.description }}">
+    {{ template "chrome/system/header/social/index.html" . }}
+    {{ if .RSSlink }}
+      <link href="{{ .RSSlink }}" rel="alternate" type="application/rss+xml" title="{{ .Title }}">
+    {{ end }}
+    <link rel="stylesheet" href="/static/style/bundle.css">
+  </head>
+  <body>
+    <div class="stripe"></div>
+    <div id="page" class="page page-homepage">
 
-{{ template "chrome/component/header/masthead.html" . }}
+      {{ template "chrome/component/header/masthead.html" . }}
 
-<article class="article-post article-list">
-  <div class="section-inner">
-    <ul class="list-articles">
-      {{ range .Data.Pages }}
-        {{ .Render "li" }}
-      {{ end }}
-    </ul>
-  </div>
-</article>
+      <article class="article-post article-list">
+        <div class="section-inner">
+          <ul class="list-articles">
+            {{ range .Data.Pages }}
+              {{ .Render "li" }}
+            {{ end }}
+          </ul>
+        </div>
+      </article>
 
-{{ template "chrome/component/footer/index.html" . }}
-{{ template "chrome/system/footer/index.html" . }}
+    {{ template "chrome/component/footer/index.html" . }}
+    {{ template "chrome/system/footer/index.html" . }}
