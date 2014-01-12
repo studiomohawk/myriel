@@ -1,0 +1,22 @@
+language: go
+go:
+  - 1.2
+env:
+  global:
+    - GIT_COMMITTER_NAME=studiomohawk
+    - GIT_COMMITTER_EMAIL=studiomohawk@gmail.com
+    - GIT_AUTHOR_NAME=studiomohawk
+    - GIT_AUTHOR_EMAIL=studiomohawk@gmail.com
+    - secure: "ist9H2sNkSpVeCASXEupHPmSqHVyPJWsgle62bPJ3mMuxoFtlzVb7PeIit02mOilSKFX6hq9eK4SoSxLy6xdcoy/BlP0C69DzsmcjO89+GpYWzTr6s8X52jnWz5o30d3/tNk51OQUtUzycfFatpLFqPY4a51KD+pXP+EY8ZlQfI="
+before_script:
+    - git clone --quiet https://github.com/studiomohawk/myriel.git public
+    - pushd public
+    - git checkout -b gh-pages
+    - popd
+script:
+  - hugo server -s .
+after_success:
+    - cd public
+    - git add -A
+    - git commit -m 'Update'
+    - '[ "$TRAVIS_BRANCH" == "master" ] && [ $GH_TOKEN ] && git push --quiet https://$GH_TOKEN@github.com/studiomohawk/myriel.git gh-pages 2> /dev/null'
