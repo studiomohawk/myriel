@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:studiomohawk/myriel.git
+	branch = gh-pages
