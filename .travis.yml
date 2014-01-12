@@ -1,6 +1,6 @@
-language: go
-go:
-  - 1.2
+language: node
+node:
+  - 0.10.24
 env:
   global:
     - GIT_COMMITTER_NAME=studiomohawk
