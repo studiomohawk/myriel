@@ -43,3 +43,9 @@ author: "Yuya Saito"
   <p>&copy; 2013 Company Name</p>
 </footer>
 ```
+
+{{% highlight html %}}
+<html>
+    <body> This HTML </body>
+</html>
+{{% /highlight %}}
