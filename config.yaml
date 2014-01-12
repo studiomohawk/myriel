@@ -1,0 +1,12 @@
+---
+title: "Myriel"
+params:
+  authorName: "Yuya Saito"
+  bio: "Front-end Develper by day, translator by night."
+  description: "Myriel is modularized minimum blog theme for Hugo."
+  twitter: "cssradar"
+  googleplus: "+YuyaSaito"
+  github: "studiomohawk"
+  pinboard: "studiomohawk"
+  issue: "https://github.com/studiomohawk/myriel/issues"
+...

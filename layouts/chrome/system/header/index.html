@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head prefix="og: http://ogp.me/ns#">
+    <meta charset="utf-8">
+    <title>{{ .Title }} | {{ .Site.Title }}</title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="{{ .Site.Params.description }}">
+    {{ template "chrome/system/header/social/index.html" . }}
+    {{ if .RSSlink }}
+      <link href="{{ .RSSlink }}" rel="alternate" type="application/rss+xml" title="{{ .Title }}">
+    {{ end }}
+    <link rel="stylesheet" href="/static/style/bundle.css">
+  </head>
+  <body>
+    <div class="stripe"></div>
+    <div id="page" class="page">

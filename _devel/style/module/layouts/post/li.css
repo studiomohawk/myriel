@@ -1,0 +1,43 @@
+.article-list .section-inner:first-of-type {
+  padding-top: 0;
+}
+.list-articles {
+  list-style: none;
+}
+.list-articles a {
+  display: block;
+  margin: 0 0 0 -1rem;
+  padding: 0 0 0 1rem;
+  border-left: 5px solid transparent;
+  -webkit-transition-property: color, border-left-color;
+  -moz-transition-property: color, border-left-color;
+  -o-transition-property: color, border-left-color;
+  -ms-transition-property: color, border-left-color;
+  transition-property: color, border-left-color;
+  -webkit-transition-duration: .25s,.25s;
+  -moz-transition-duration: .25s,.25s;
+  -o-transition-duration: .25s,.25s;
+  -ms-transition-duration: .25s,.25s;
+  transition-duration: .25s,.25s;
+  -webkit-animation-timing-function: linear,linear;
+  -moz-animation-timing-function: linear,linear;
+  -o-animation-timing-function: linear,linear;
+  -ms-animation-timing-function: linear,linear;
+  animation-timing-function: linear,linear;
+}
+.list-articles a:link,
+.list-articles a:visited {
+  color: #5F6062;
+}
+.list-articles a:hover {
+  border-left: 5px solid rgba(95, 96, 98, 0.60);
+}
+.list-articles li .metadata {
+  margin-bottom: 0;
+}
+.list-articles li {
+  margin: auto auto 1.5em;
+}
+.list-articles li:last-child {
+  margin-bottom: 0;
+}

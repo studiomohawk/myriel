@@ -1,0 +1,12 @@
+<hr>
+
+<footer class="the-footer">
+  <div class="section-inner">
+    {{ template "chrome/component/footer/ask.html" . }}
+    {{ template "chrome/component/footer/elsewhere.html" . }}
+    <p class="bio madeintokyo">
+      Build by {{ .Site.Params.authorName }} - {{ .Site.Params.bio }}<br>
+      Made Proudly in Tokyo.
+    </p>
+  </div>
+</footer>

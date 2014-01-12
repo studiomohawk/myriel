@@ -1,0 +1,11 @@
+.masthead a:link,
+.masthead a:visited {
+  color: #5F6062;
+}
+.masthead .section-inner {
+  padding: 12% 0;
+}
+.masthead .subhead,
+.masthead p {
+  margin: 0;
+}

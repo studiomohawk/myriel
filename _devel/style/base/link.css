@@ -1,0 +1,15 @@
+a, a:link {
+  text-decoration: none;
+  color: #46788f;
+  -webkit-transition: color 0.1s ease-in-out;
+  -moz-transition: color 0.1s ease-in-out;
+  -ms-transition: color 0.1s ease-in-out;}
+a:visited {
+  color: #386275;
+}
+a:hover {
+  color: #5a94ae;
+}
+a:active {
+  color: #5a94ae;
+}

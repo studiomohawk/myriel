@@ -1,0 +1,18 @@
+<h3 class="h5 en">Elsewhere</h3>
+<p>
+  {{ if isset .Site.Params "twitter" }}
+    <a href="https://twitter.com/{{ .Site.Params.twitter }}">Twitter</a>
+  {{ end }}
+  {{ if isset .Site.Params "github" }}
+    <span class="space">/</span>
+    <a href="https://github.com/{{ .Site.Params.github }}">GitHub</a>
+  {{ end }}
+  {{ if isset .Site.Params "googleplus" }}
+    <span class="space">/</span>
+    <a href="https://plus.google.com/{{ .Site.Params.googleplus }}">Google+</a>
+  {{ end }}
+  {{ if isset .Site.Params "pinboard" }}
+    <span class="space">/</span>
+    <a href="https://pinboard.in/u:{{ .Site.Params.pinboard }}">pinboard</a>
+  {{ end }}
+</p>

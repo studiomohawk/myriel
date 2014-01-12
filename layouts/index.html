@@ -1,0 +1,16 @@
+{{ template "chrome/system/header/index.html" . }}
+
+{{ template "chrome/component/header/masthead.html" . }}
+
+<article class="article-post article-list">
+  <div class="section-inner">
+    <ul class="list-articles">
+      {{ range .Data.Pages }}
+        {{ .Render "li" }}
+      {{ end }}
+    </ul>
+  </div>
+</article>
+
+{{ template "chrome/component/footer/index.html" . }}
+{{ template "chrome/system/footer/index.html" . }}
