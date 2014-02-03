@@ -26,6 +26,3 @@ Session.vim
 *.ipr
 *.iws
 .idea/
-
-### Hugo
-public/
