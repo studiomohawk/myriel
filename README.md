@@ -40,6 +40,10 @@ Point your browser to <http://localhost:1313/>
 
 And your running Hugo with Myriel theme!
 
+### Example
+
+I've setup example at <http://studiomohawk.github.io/myriel/>
+
 ### Customize Myriel
 
 As you can see, Myriel is very minimum theme, so you do want to customize it to fit your needs.
