@@ -13,7 +13,7 @@
     "sync": "browser-sync",
     "pagekite": "pagekite.py 9000 true.pagekite.me",
     "test": "tape test/*.js",
-    "deploy": "git subtree split --prefix public -b gh-pages & git push -f origin gh-pages:gh-pages & git branch -D gh-pages"
+    "build": "hugo"
   },
   "repository": {
     "type": "git",
