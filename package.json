@@ -13,7 +13,8 @@
     "sync": "browser-sync",
     "pagekite": "pagekite.py 9000 true.pagekite.me",
     "test": "tape test/*.js",
-    "build": "hugo"
+    "build": "hugo",
+    "deploy": "_devel/bin/deploy.sh"
   },
   "repository": {
     "type": "git",
