@@ -1,5 +1,6 @@
 ---
 title: "Myriel"
+baseurl: "http://studiomohawk.github.io/myriel/"
 params:
   AuthorName: "Yuya Saito"
   Bio: "Front-end Develper by day, translator by night."
