@@ -12,7 +12,8 @@
     "start": "hugo server -s . -w",
     "sync": "browser-sync",
     "pagekite": "pagekite.py 9000 true.pagekite.me",
-    "test": "tape test/*.js"
+    "test": "tape test/*.js",
+    "deploy": "git checkout master & git subtree split --prefix output -b gh-pages & git push -f origin gh-pages:gh-pages & git branch -D gh-pages"
   },
   "repository": {
     "type": "git",
@@ -45,9 +46,6 @@
     "transform": [
       "browserify-shim"
     ]
-  },
-  "browserify-shim": {
-    "./browser/script/lib/prism.js": "Prism"
   },
   "optionalDependencies": {
     "hacker-deps": "~0.1.x"
