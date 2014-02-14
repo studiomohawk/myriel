@@ -14,7 +14,8 @@
     "pagekite": "pagekite.py 9000 true.pagekite.me",
     "test": "tape test/*.js",
     "build": "hugo",
-    "deploy": "_devel/bin/deploy.sh"
+    "deploy": "_devel/bin/deploy.sh",
+    "write": "_devel/bin/write.js"
   },
   "repository": {
     "type": "git",

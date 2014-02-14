@@ -10,7 +10,7 @@ Myriel is a very minimum yet flexible blog boilerplate for [Hugo](http://hugo.sp
 
 ## Quickstart
 
-[Install Hugo!](http://hugo.spf13.com/overview/quickstart) 
+[Install Hugo](http://hugo.spf13.com/overview/quickstart)!  
 
 You need to clone this repo on your local machine.  
 
@@ -70,4 +70,12 @@ borschik looks for `_devel/style/main.css`, so if you add new file, make sure yo
 At this time, I don’t have any JavaScript!  
 **but** I’m planning to use [browserify](https://github.com/substack/node-browserify) by substack for modularize JavaScript.  
 I already setup necessary  commands at `package.json` so if you need to add JavaScript, please check them out.
+
+#### It is possible to automate creating a new post?
+
+Yes.  
+
+```
+npm run write --title=your title
+```
 
