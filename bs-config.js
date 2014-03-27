@@ -103,7 +103,7 @@ module.exports = {
      |--------------------------------------------------------------------------
      | https://github.com/shakyShane/browser-sync/wiki/options#wiki-injectchanges
      */
-    injectChanges: false,
+    injectChanges: true,
 
     /*
      |--------------------------------------------------------------------------

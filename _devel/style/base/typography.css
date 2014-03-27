@@ -2,8 +2,9 @@
    Base Type
    ========================================================================== */
 html {
-  /* base font size 18px with 1.65 line-height */
-  font: normal 112.5%/1.65 sans-serif;
+  font-size: 100%;
+  font-weight: 400;
+  line-height: 1.45;
 }
 
 body {
@@ -25,59 +26,29 @@ h3,
 h4,
 h5,
 h6 {
-  line-height: 1;
-  margin-top: 0;
+  margin: 1.414em 0 0.5em;
+  font-weight: bold;
+  line-height: 1.2;
   text-rendering: optimizeLegibility;
-}
-
-.tera {
-  font-size: 117px;
-  /* 117 / 18 = 6.5 */
-  font-size: 6.5rem;
-  margin-bottom: 0.25385em;
-}
-
-.giga {
-  font-size: 90px;
-  /* 90 / 18 = 5 */
-  font-size: 5rem;
-  margin-bottom: 0.33em;
-}
-
-.mega {
-  font-size: 72px;
-  /* 72 / 18 = 4 */
-  font-size: 4rem;
-  margin-bottom: 0.4125em;
 }
 
 h1,
 .h1,
 .alpha {
-  font-size: 36px;
-  /* 36 / 18 = 2 */
-  font-size: 2rem;
-  margin-bottom: 0.825em;
+  margin-top: 0;
+  font-size: 3.998em;
 }
 
 h2,
 .h2,
 .beta {
-  font-size: 24px;
-  /* 24 / 18 = 1.3333 */
-  font-size: 1.3333333333333333rem;
-  margin-bottom: 1.2375em;
+  font-size: 2.827em;
 }
 
 h3,
 .h3,
 .gamma {
-  font-size: 21px;
-  /* 21 / 18 = 1.1667 */
-  font-size: 1.16667rem;
-  /* measure( base font-size(18) * base line-height(1.65) ) / current
-  * font-size(21) = margin-bottom(1.4142857142857141) */
-  margin-bottom: 1.4142857142857141em;
+  font-size: 1.999em;
 }
 
 h4,
@@ -89,81 +60,20 @@ h5,
 h6,
 .h6,
 .zeta {
-  font-size: 18px;
-  /* 18 = 18 × 1 */
-  font-size: 1rem;
-  /* measure( base font-size(18) * base line-height(1.65) ) / current font-size(18) = margin-bottom(1.65) */
-  margin-bottom: 1.65em;
+  font-size: 1.414em;
 }
 
 @media screen and (min-width: 80em) {
-
   html {
-    /* base font size 20px with 1.65 line-height */
-    font: normal 125%/1.65 sans-serif;
-  }
-
-  h1,
-  .h1,
-  .alpha {
-    font-size: 60px;
-    /* 60 / 18 = 3.3333 */
-    font-size: 3.33333rem;
-    margin-bottom: 0.495em;
-  }
-
-  h2,
-  .h2,
-  .beta {
-    font-size: 48px;
-    /* 48 / 18 = 2.6667 */
-    font-size: 2.6667rem;
-    margin-bottom: 0.61875rem;
-  }
-
-  h3,
-  .h3,
-  .gamma {
-    font-size: 36px;
-    /* 36 / 18 = 2 */
-    font-size: 2rem;
-    margin-bottom: 0.825em;
-  }
-
-  h4,
-  .h4,
-  .delta {
-    font-size: 24px;
-    /* 24 / 18 = 1.3333 */
-    font-size: 1.3333333333333333rem;
-    margin-bottom: 1.2375em;
-  }
-
-  h5,
-  .h5,
-  .epsilon {
-    font-size: 21px;
-    /* 21 / 18 = 1.1667 */
-    font-size: 1.16667rem;
-    /* measure( base font-size(18) * base line-height(1.65) ) / current
-    * font-size(21) = margin-bottom(1.4142857142857141) */
-    margin-bottom: 1.4142857142857141em;
-  }
-
-  h6,
-  .h6,
-  .zeta {
-    font-size: 18px;
-    /* 18 = 18 × 1 */
-    font-size: 1rem;
-    /* measure( base font-size(18) * base line-height(1.65) ) / current font-size(18) = margin-bottom(1.65) */
-    margin-bottom: 1.65em;
+    font-size: 125%;
+    font-weight: 400;
+    line-height: 1.45;
   }
 }
 
 small,
 .small {
-  font-size: 65%;
+  font-size: 0.707em;
 }
 
 /* ==========================================================================
@@ -171,7 +81,7 @@ small,
    ========================================================================== */
 p,
 .p {
-  margin: auto auto 1.5em;
+  margin-bottom: 1.3em;
 }
 
 .bold,
@@ -185,11 +95,11 @@ strong {
 ul {
   list-style: square;
   padding: 0;
-  margin: auto auto 1.5em;
+  margin-bottom: 1.3em;
 }
 ol {
   padding: 0;
-  margin: auto auto 1.5em;
+  margin-bottom: 1.3em;
 }
 
 /* ==========================================================================
@@ -248,7 +158,8 @@ blockquote {
   border-left: 0.2em solid rgba(21,25,25,0.6);
   padding-left: 0.5em;
   margin-right: 0;
-  margin: auto auto 1.5em;
+  margin-left: 0;
+  margin-bottom: 1.3em;
 }
 blockquote p:last-of-type {
   margin-bottom: -0.825em;
