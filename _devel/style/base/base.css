@@ -3,6 +3,7 @@
    ========================================================================== */
 body {
   background: #ffffff;
+  overflow-y: scroll;
 }
 .logo, .subhead, .title, .en {
   font-family: 'Open Sans',sans-serif;

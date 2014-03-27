@@ -1,6 +1,6 @@
 {
   "name": "myriel",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Myriel is modularized minimum blog theme for Hugo.",
   "scripts": {
     "build-js": "browserify _devel/script/main.js | uglifyjs -mc > static/static/script/bundle.js",
@@ -8,9 +8,10 @@
     "build-dev-js": "browserify _devel/script/main.js -dv",
     "build-dev-css": "borschik -i _devel/style/main.css -o static/static/style/bundle.css -m false",
     "watch-js": "watchify _devel/script/main.js -o static/static/script/bundle.js -dv",
-    "watch-css": "watchy -w _devel/style -- npm run build-dev-css",
-    "start": "hugo server -s . -w",
-    "sync": "browser-sync",
+    "watch-css": "watchy -w _devel/style -- npm run build-css",
+    "watch": "npm run watch-css",
+    "start": "hugo server -s . -w & npm run watch & npm run sync",
+    "sync": "browser-sync start",
     "pagekite": "pagekite.py 9000 true.pagekite.me",
     "test": "tape test/*.js",
     "build": "hugo",
@@ -33,16 +34,16 @@
   },
   "homepage": "https://github.com/studiomohawk/myriel",
   "dependencies": {
-    "browserify": "~3.16.x",
-    "uglifyjs": "~2.3.x",
-    "borschik": "~0.4.x"
+    "borschik": "^0.4.2",
+    "browserify": "^3.16.1",
+    "browserify-shim": "^3.3.2",
+    "uglifyjs": "^2.3.6"
   },
   "devDependencies": {
-    "browser-sync": "~0.4.x",
-    "tape": "~2.3.x",
-    "watchify": "~0.5.x",
-    "watchy": "~0.4.x",
-    "browserify-shim": "~3.1.x"
+    "browser-sync": "^0.7.3",
+    "tape": "^2.12.0",
+    "watchify": "^0.6.3",
+    "watchy": "^0.4.3"
   },
   "browserify": {
     "transform": [

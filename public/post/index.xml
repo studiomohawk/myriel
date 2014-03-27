@@ -2,28 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Posts | Myriel</title>
-    <link>http://studiomohawk.github.io/myriel/post.xml</link>
+    <link>http://localhost:1313/post/index.xml</link>
     <language>en-us</language>
     <author>Yuya Saito</author>
     <updated>2014-01-11 00:00:00 &#43;0000 UTC</updated>
     
     <item>
       <title>Markdown Style</title>
-      <link>http://studiomohawk.github.io/myriel/post/style</link>
+      <link>http://localhost:1313/post/style</link>
       <pubDate>Sat, 11 Jan 2014 00:00:00 UTC</pubDate>
       <author>Yuya Saito</author>
-      <guid>http://studiomohawk.github.io/myriel/post/style</guid>
-      <description>&lt;h1&gt;h1 - header 1&lt;/h1&gt;
+      <guid>http://localhost:1313/post/style</guid>
+      <description>
 
-&lt;h2&gt;h2 - header 2&lt;/h2&gt;
+&lt;h1 id=&#34;toc_0&#34;&gt;h1 - header 1&lt;/h1&gt;
 
-&lt;h3&gt;h3 - header 3&lt;/h3&gt;
+&lt;h2 id=&#34;toc_1&#34;&gt;h2 - header 2&lt;/h2&gt;
 
-&lt;h4&gt;h4 - header 4&lt;/h4&gt;
+&lt;h3 id=&#34;toc_2&#34;&gt;h3 - header 3&lt;/h3&gt;
 
-&lt;h5&gt;h5 - header 5&lt;/h5&gt;
+&lt;h4 id=&#34;toc_3&#34;&gt;h4 - header 4&lt;/h4&gt;
 
-&lt;h6&gt;h6 - header 6&lt;/h6&gt;
+&lt;h5 id=&#34;toc_4&#34;&gt;h5 - header 5&lt;/h5&gt;
+
+&lt;h6 id=&#34;toc_5&#34;&gt;h6 - header 6&lt;/h6&gt;
 
 &lt;p&gt;&lt;strong&gt;But this is not the half;&lt;/strong&gt; look again. I freely assert, that the cosmopolite philosopher cannot, for his life, point out one single peaceful influence, which within the last sixty years has operated more potentially upon the whole broad world, taken in one aggregate, than the high and mighty business of whaling. One way and another, it has begotten&lt;/p&gt;
 
@@ -63,21 +65,21 @@
 &amp;lt;/footer&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;
-&lt;html&gt;
+&lt;p&gt;&lt;html&gt;
     &lt;body&gt; This HTML &lt;/body&gt;
-&lt;/html&gt;
-&lt;/p&gt;
+&lt;/html&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>CHAPTER II</title>
-      <link>http://studiomohawk.github.io/myriel/post/m-myriel-becomes-m-welcome</link>
+      <link>http://localhost:1313/post/m-myriel-becomes-m-welcome</link>
       <pubDate>Thu, 02 Jan 1862 00:00:00 UTC</pubDate>
       <author>Yuya Saito</author>
-      <guid>http://studiomohawk.github.io/myriel/post/m-myriel-becomes-m-welcome</guid>
-      <description>&lt;h2&gt;M. MYRIEL BECOMES M. WELCOME&lt;/h2&gt;
+      <guid>http://localhost:1313/post/m-myriel-becomes-m-welcome</guid>
+      <description>
+
+&lt;h2 id=&#34;toc_0&#34;&gt;M. MYRIEL BECOMES M. WELCOME&lt;/h2&gt;
 
 &lt;p&gt;The episcopal palace of D&amp;mdash;- adjoins the hospital.&lt;/p&gt;
 
@@ -315,11 +317,13 @@ confine ourselves to stating that it resembles the original.&lt;/p&gt;
     
     <item>
       <title>CHAPTER I</title>
-      <link>http://studiomohawk.github.io/myriel/post/m-myriel</link>
+      <link>http://localhost:1313/post/m-myriel</link>
       <pubDate>Wed, 01 Jan 1862 00:00:00 UTC</pubDate>
       <author>Yuya Saito</author>
-      <guid>http://studiomohawk.github.io/myriel/post/m-myriel</guid>
-      <description>&lt;h2&gt;M. MYRIEL&lt;/h2&gt;
+      <guid>http://localhost:1313/post/m-myriel</guid>
+      <description>
+
+&lt;h2 id=&#34;toc_0&#34;&gt;M. MYRIEL&lt;/h2&gt;
 
 &lt;p&gt;In 1815, M. Charles-Francois-Bienvenu Myriel was Bishop of D&amp;mdash;- He was
 an old man of about seventy-five years of age; he had occupied the see
