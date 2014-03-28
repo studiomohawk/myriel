@@ -3,6 +3,10 @@
   <meta name="twitter:site" content="@{{ .Site.Params.Twitter }}">
   <meta name="twitter:creator" content="@{{ .Site.Params.Twitter }}">
   <meta name="twitter:title" content="{{ .Title }}">
-  <meta name="twitter:description" content="{{ .Description }}">
+  {{ if .Description }}
+    <meta name="twitter:description" content="{{ .Description }}">
+  {{ else }}
+    <meta name="twitter:description" content="{{ .Site.Params.Description }}">
+  {{ end }}
   <!-- <meta name="twitter:image" content=""> -->
 {{ end }}

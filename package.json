@@ -10,11 +10,12 @@
     "watch-js": "watchify _devel/script/main.js -o static/static/script/bundle.js -dv",
     "watch-css": "watchy -w _devel/style -- npm run build-css",
     "watch": "npm run watch-css",
-    "start": "hugo server -s . -w & npm run watch & npm run sync",
+    "start": "hugo server -s . -w",
     "sync": "browser-sync start",
     "pagekite": "pagekite.py 9000 true.pagekite.me",
     "test": "tape test/*.js",
     "build": "hugo",
+    "devel": "npm run watch & npm run sync",
     "deploy": "_devel/bin/deploy.sh",
     "write": "_devel/bin/write.js"
   },

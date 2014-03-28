@@ -2,15 +2,27 @@
 <html>
   <head prefix="og: http://ogp.me/ns#">
     <meta charset="utf-8">
-    <title>{{ .Title }} | {{ .Site.Title }}</title>
     <meta name="viewport" content="width=device-width">
-    <meta name="description" content="{{ .Description }}">
-    {{ template "chrome/system/header/social/index.html" . }}
+    <link rel="stylesheet" href="/static/style/bundle.css">
     {{ if .RSSlink }}
       <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}">
     {{ end }}
-    <link rel="stylesheet" href="/static/style/bundle.css">
+    {{ template "chrome/system/header/social/index.html" . }}
+
+    {{/* CAUTION: Using .Description to determine if page is homepage or post */}}
+
+    {{ if .Description }}
+      <title>{{ .Title }} | {{ .Site.Title }}</title>
+      <meta name="description" content="{{ .Description }}">
+    {{ else }}
+      <title>{{ .Site.Title }}</title>
+      <meta name="description" content="{{ .Site.Params.Description }}">
+    {{ end }}
   </head>
   <body>
+    {{ if .Description }}
     <div id="page" class="page page-{{ .Type }}">
+    {{ else }}
+    <div id="page" class="page page-homepage">
+    {{ end }}
     <div class="stripe"></div>

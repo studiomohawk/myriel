@@ -72,6 +72,14 @@ I already setup necessary commands at `package.json` so if you need to add JavaS
 npm start
 ```
 
+and open a diffrent tab/pane/window in console type:
+
+```
+npm run devel
+```
+
+and open <http://172.19.47.191:3002> OR whereever your console point you to.
+
 Will take care everything! (But you need to have Node.js and few Modules)
 
 #### It is possible to automate creating a new post?

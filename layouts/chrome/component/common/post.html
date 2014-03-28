@@ -1,0 +1,10 @@
+<article class="article-post">
+  <div class="section-inner">
+    <h1 class="title">{{ .Title }}</h1>
+    {{ template "chrome/component/common/metadata.html" . }}
+    {{ .Content }}
+    <div class="backtohome">
+      <a class="icon icon-home" href="/"></a>
+    </div>
+  </div>
+</article>
