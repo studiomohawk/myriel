@@ -76,7 +76,6 @@ module.exports = function walk (dir, opts, emitter, dstat) {
     
     function onreaddir (err, files) {
         if (emitter._stopped) return;
-        emitter._pending --;
         if (err) return check();
         
         files.forEach(function (rfile) {
@@ -89,6 +88,7 @@ module.exports = function walk (dir, opts, emitter, dstat) {
                 else onstat(file, stat)
             });
         });
+       check();
     }
     
     function onstat (file, stat, original) {
